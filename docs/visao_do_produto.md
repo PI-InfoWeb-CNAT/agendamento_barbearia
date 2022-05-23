@@ -6,18 +6,24 @@
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 19/06/2021 |  **`1.00`** | Versão Inicial  | Gilbert Azevedo |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | Rafael Fernandes |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | Maria Vitória |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | Antony Gabriel |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | Luís Gustavo |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | Samuel Lucas |
+| 25/05/2022 |  **`1.00`** | Versão Inicial  | José Jefferson |
+
 
 
 ### 1. Objetivo do Projeto 
 
-O projeto __Agendamento de Serviços__ tem como objetivo prover uma solução simples, acessível e padronizada para o agendamento de serviços através da Internet.
+O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples e dinámica para o atendimento dos clientes do estabelecimento.
 
 ### 2. Descrição do Problema 
 
 |         __        | __   |
 |:------------------|:-----|
-| **_O problema_**    | Marcar um horário de atendimento com profissionais, como dentistas, médicos, psicólogos, dentro outros, e empresas prestadoras de serviços, como concessionárias de automóveis, eletrônicas, pet-shops, etc.  |
+| **_O problema_**    |Marcar, cadastrar, checar os horários disponíveis para os cortes de cabelo. |
 | **_afetando_**      | Profissionais e empresas que fornecem diversos serviços à sociedade e pessoas que precisam contratar esses serviços, agendando um horário de atendimento. |
 | **_cujo impacto é_**| Dificuldade no agendamento do atendimento, dificuldade na contratação dos serviços, perda de clientes (empresas e profissionais) e não realização de serviços (clientes). |
 | **_uma boa solução seria_** | Um sistema na Internet que permita aos profissionais e empresas informar a disponibilidade de horários de atendimento, facilitando o agendamento desses atendimentos para seus clientes. E para os clientes, um sistema que facilite a busca de profissionais e empresas para agendamento de um atendimento. |
