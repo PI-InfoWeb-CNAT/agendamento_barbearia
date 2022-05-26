@@ -38,39 +38,37 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 ### 4. Descrição do Ambiente dos Usuários
 
-Em várias atividades do cotidiano humano é necessário agendar um horário determinado para que uma ação específica seja realizada. Isso ocorre, por exemplo, quando um automóvel vai ser revisado em uma oficina, quando um médico vai consultar um paciente ou quando consertos diversos (hidráulicos, elétricos, dentre outros) são realizados em uma residência. 
+Atualmente, se surgiu a necessidade de muitas vezes entrar em contato com uma pessoa específica para se realizar um determinado serviço, porém graças as novas tecnologias que nasceram nesce século, não se é mais preciso realizar este contato cara a cara. 
 
-Em muitas dessas situações, o cliente precisa atualmente estabelecer um contato pessoal com o profissional ou com a empresa prestadora do serviço para agendar um atendimento. E, como isso é normalmente realizado por telefone ou aplicativo de mensagens, encontrar um horário de atendimento possível para ambas as partes pode ser custoso, pois há a necessidade de encontrar um horário viável para os dois envolvidos.
+É muito mais prático fazer este contato por meio de um computador, pois dessa forma, o cliente não precisa realizar viagem alguma, para muitas vezes ser recebido com uma recusa.
 
-Desta forma, a ideia central do sistema é permitir que empresas e profissionais registrem suas disponibilidades de atendimento e que clientes, em geral, possam consultar e agendar horários para realização e contratação de serviços. Com isso, o sistema pode estabelecer um canal de comunicação mais ágil entre clientes e empresas ou profissionais.
+Esta é a ideia central do nosso sistema, arranjar uma forma mais simples de fazer esta operação, além de facilitar a organização do negócio como um todo para o profissional; agendando, confirmando, especifícando e confirmando serviços.
 
 ### 5. Principais Necessidades dos Usuários
 
-Para empresas e profissionais, a necessidade é divulgar sua disponibilidade de atendimentos para viabilizar, de forma mais eficiente, o atendimento dos seus clientes.
+Para os administradores o principal problema e divulgar o próprio negócio e conseguir administra-lo da forma mais eficiente possível.
 
-Para os clientes, as necessidades são encontrar profissionais e empresas prestadoras de serviço e agendar atendimentos com estes de acordo as disponibilidades de tempo dos envolvidos.
+Para os clientes é conseguir um lugar prático e eficiente para agendar o serviço desejado.
 
 ### 6.	Alternativas Concorrentes
 
-As alternativas concorrentes são, em geral, específicas para uma empresa ou profissional. A ideia do sistema proposto é prover uma solução simples, acessível e padronizada para o agendamento de serviços e que pode ser utilizada por quaisquer profissionais e empresas.
+Alternativas concorrentes serião as redes sociais num geral, como whatsapp ou instagram, pois nelas o cliente poderia entrar em contato com o profissional e agendar o serviço desejado. 
 
+Porém essas plataformas não são específicas para esse tipo de interação, portanto seria bastante possível que com o número muito alto de agendamentos o profissional se confundir, e acabar esquecendo de um ou outro agendamento.
 ### 7.	Visão Geral do Produto
 
-Em resumo, o sistema de Agendamento de Serviços é uma aplicação que permite empresas e profissionais registrarem suas disponibilidades de atendimento aos seus clientes, de forma que estes possam consultar e agendar horários para realização de serviços.
-
-O sistema deve ter uma interface amigável e permitir o acesso concorrente de clientes para agendamento de um horário de atendimento.
+Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmação, especificação e apagamento do serviço. Além de promover o próprio negócio com o site.
 
 ### 8. Requisitos Funcionais
 
 | Código | Nome | Descrição |
 |:---  |:--- |:--- |
 | RF01 | Entrar no sistema | Usuários devem logar no sistema para acessar as funcionalidades relacionadas ao agendamento |
-| RF02 | Cadastro de Funcionários | Administrador do sistema mantém o cadastro dos funcionários responsáveis pelo gerenciamento das agendas |
-| RF03 | Gerenciamento de Serviços |  Funcionário mantém a relação de serviços prestados pela empresa ou profissional |
-| RF04 | Gerenciamento da Agenda | Funcionário registra os horários disponíveis de atendimento, confirma e cancela o agendamento de clientes |
-| RF05 | Cadastro de Clientes | Cliente deve realizar o auto cadastramento |
-| RF06 | Consulta de Agendas | Cliente consulta agendas de atendimento dos serviços disponíveis, podendo agendar um serviço  |
-| RF07 | Consulta de Agendamento | Cliente consulta atendimentos agendados, podendo cancelar um agendamento |
+| RF02 | Gerenciamento de Serviços |  Funcionário mantém a relação de serviços prestados pela empresa ou profissional |
+| RF03 | Gerenciamento da Agenda | Funcionário registra os horários disponíveis de atendimento, confirma e cancela o agendamento de clientes |
+| RF04 | Cadastro de Clientes | Cliente deve realizar o auto cadastramento |
+| RF05 | Consulta de Agendas | Cliente consulta agendas de atendimento dos serviços disponíveis, podendo agendar um serviço  |
+| RF06 | Consulta de Agendamento | Cliente consulta atendimentos agendados, podendo cancelar um agendamento |
 
 
 ### 9. Requisitos Não-funcionais
