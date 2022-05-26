@@ -46,9 +46,9 @@ Esta é a ideia central do nosso sistema, arranjar uma forma mais simples de faz
 
 ### 5. Principais Necessidades dos Usuários
 
-Para os administradores o principal problema e divulgar o próprio negócio e conseguir administra-lo da forma mais eficiente possível.
+Para o administrador, sua principal necessidade é de conseguir organizar e consultar sua lista de agendamentos para cortes da forma mais eficiente possível.
 
-Para os clientes é conseguir um lugar prático e eficiente para agendar o serviço desejado.
+Para os clientes é conseguir agendar, confirmar ou cancelar os cortes de forma prática e rápida.
 
 ### 6.	Alternativas Concorrentes
 
