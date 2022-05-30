@@ -72,7 +72,7 @@ Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmaç�
 
 ### 9. Requisitos Não-funcionais
 
- Código | Nome | Descrição | Categoria | Classificação
+ |Código | Nome | Descrição | Categoria | Classificação|
 |:---  |:--- |:--- |:--- |:--- |
 | RNF01 | Design responsivo | O sistema deve adaptar-se a qualquer tamanho de tela de dispositivo, seja, computador, tablets ou smart phones. | Usabilidade| Obrigatório |
 | RNF02 | Criptografia de dados| Senhas de usuários devem ser gravadas de forma criptografada no banco de dados. | Segurança | Obrigatório |
