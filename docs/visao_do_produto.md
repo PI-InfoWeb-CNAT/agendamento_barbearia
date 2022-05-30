@@ -24,7 +24,7 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 |         __        | __   |
 |:------------------|:-----|
 | **_O problema_**    | Marcar, cadastrar e checar os horários disponíveis para os serviços ofertados pela barbearia. |
-| **_afetando_**      | Profissionais que fornecem diversos serviços à sociedade e pessoas que precisam contratar esses serviços, agendando um horário de atendimento. |
+| **_afetando_**      | O barbeiro Mateus, pois com o site, melhorará o agendamento de serviços, assim como a própria divulgação de seu negócio. |
 | **_cujo impacto é_**| Dificuldade no agendamento do atendimento, dificuldade na contratação dos serviços, perda de clientes (empresas e profissionais) e não realização de serviços (clientes). |
 | **_uma boa solução seria_** | Um sistema na Internet que permita aos profissionais e empresas informar a disponibilidade de horários de atendimento, facilitando o agendamento desses atendimentos para seus clientes. E para os clientes, um sistema que facilite a busca de profissionais e empresas para agendamento de um atendimento. |
 
@@ -32,8 +32,7 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
-| Administrador  | Realiza as atividades básicas para o início da operação do sistema | Mantém o cadastro dos funcionários responsáveis pela operação da agenda de serviços |
-| Funcionário  | Realiza as atividades relacionadas ao controle da agenda de serviços | Mantém o cadastro de serviços; consulta a situação das agendas de serviços; mantém a agenda de atendimento; confirma o agendamento de clientes e exclui o agendamento de clientes |
+| Administrador/Funcionário  | Realiza as atividades básicas para o início da operação do sistema, além de controlar a agenda de servoços | Mantém o cadastro de serviços; consulta a situação das agendas de serviços; mantém a agenda de atendimento; confirma o agendamento de clientes e exclui o agendamento de clientes |
 | Cliente | Realiza as atividades relacionadas ao agendamento do serviço | Realiza o próprio cadastro no sistema; consulta a agenda de serviços e disponibilidades de atendimento; agenda um serviço; consulta seus agendamentos e cancela um agendamento |
 
 ### 4. Descrição do Ambiente dos Usuários
