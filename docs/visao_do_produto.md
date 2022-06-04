@@ -23,17 +23,20 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 |         __        | __   |
 |:------------------|:-----|
-| **_O problema_**    | Marcar, cadastrar e checar os horários disponíveis para os serviços ofertados pela barbearia. |
-| **_afetando_**      | O barbeiro Mateus, pois com o site, melhorará o agendamento de serviços, assim como a própria divulgação de seu negócio. |
-| **_cujo impacto é_**| Dificuldade no agendamento do atendimento, dificuldade na contratação dos serviços, perda de clientes (empresas e profissionais) e não realização de serviços (clientes). |
-| **_uma boa solução seria_** | Um sistema na Internet que permita aos profissionais e empresas informar a disponibilidade de horários de atendimento, facilitando o agendamento desses atendimentos para seus clientes. E para os clientes, um sistema que facilite a busca de profissionais e empresas para agendamento de um atendimento. |
+| **_O problema_**    | a dificuldade do Mateus de administrar a barbearia, e dos clientes de serem atendidos. |
+| **_afetando_**      | O barbeiro Mateus, pois sendo o unico funcionario do estabelecimento, ele seria o mais interessado na automação e organização de seu serviço. Também afetaria os cliente, pela dificuldade que eles passam em marcar os seus serviços. |
+| **_cujo impacto é_**| A dificuldade na administração do serviço para o usuário, assim gerando falta de alcance, a perda de clientes, limitando a margem de lucro e podendo acarretar em problemas financeiros.  |
+| **_uma boa solução seria_** |Um site web que permita os clientes ver os serviços ofertados pela barbearia; marcar, confirmar e cancelar os próprios cortes, e ver os horarios disponíveis. E ao Mateus gerenciar serviços, atendimentos e cadastros.|
+
+
+
 
 ### 3. Descrição dos Usuários
 
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
-| Administrador/Funcionário  | Realiza as atividades básicas para o início da operação do sistema, além de controlar a agenda de servoços | Mantém o cadastro de serviços; consulta a situação das agendas de serviços; mantém a agenda de atendimento; confirma o agendamento de clientes e exclui o agendamento de clientes |
-| Cliente | Realiza as atividades relacionadas ao agendamento do serviço | Realiza o próprio cadastro no sistema; consulta a agenda de serviços e disponibilidades de atendimento; agenda um serviço; consulta seus agendamentos e cancela um agendamento |
+| Administrador/Funcionário  | É o dono e o único funcionário da barbearia, a pessoa que tomará conta do site e realizará os serviços | Gerenciar a agenda de atendimentos, de serviços e gerenciar o cadastro dos clientes e funcionários.  |
+| Cliente | O consumidor da barbearia e usuário do site | gerenciar a própria agenda, gerenciar o próprio cadastro, consultar os serviços e horários disponíveis |
 
 ### 4. Descrição do Ambiente dos Usuários
 
@@ -51,24 +54,24 @@ Para os clientes é conseguir agendar, confirmar ou cancelar os cortes de forma 
 
 ### 6.	Alternativas Concorrentes
 
-Alternativas concorrentes serião as redes sociais num geral, como whatsapp ou instagram, pois nelas o cliente poderia entrar em contato com o profissional e agendar o serviço desejado. 
+Alternativas concorrentes seriam as redes sociais num geral, como whatsapp ou instagram, pois nelas o cliente poderia entrar em contato com o profissional e agendar o serviço desejado. 
 
-Porém essas plataformas não são específicas para esse tipo de interação, portanto seria bastante possível que com o número muito alto de agendamentos o profissional se confundir, e acabar esquecendo de um ou outro agendamento.
+Porém essas plataformas não são específicas para esse tipo de interação, portanto seria bastante possível que com o número muito alto de pedidos, houvesse problemas no agendamento.
+
 ### 7.	Visão Geral do Produto
 
-Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmação, especificação e apagamento do serviço. Além de promover o próprio negócio com o site.
+Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmação, especificação e cancelamento do serviço. Além de promover o próprio negócio com o site.
 
 ### 8. Requisitos Funcionais
 
 | Código | Nome | Descrição |
 |:---  |:--- |:--- |
 | RF01 | Entrar no sistema | Usuários devem logar no sistema para acessar as funcionalidades relacionadas ao agendamento |
-| RF02 | Gerenciamento de Serviços |  Funcionário mantém a relação de serviços prestados pela empresa ou profissional |
-| RF03 | Gerenciamento da Agenda | Funcionário registra os horários disponíveis de atendimento, confirma e cancela o agendamento de clientes |
-| RF04 | Cadastro de Clientes | Cliente deve realizar o auto cadastramento |
-| RF05 | Consulta de Agendas | Cliente consulta agendas de atendimento dos serviços disponíveis, podendo agendar um serviço  |
-| RF06 | Consulta de Agendamento | Cliente consulta atendimentos agendados, podendo cancelar um agendamento |
-
+| RF02 | Gerenciamento de Cadastro do Cliente | O cliente deve realizar o auto cadastramento, ele também pode editar os dados ou excluir o cadastro. O adm pode gerenciar o cadastro de todos os seus clientes.  |
+| RF03 | Consulta de agendas | cliente consulta os horarios disponiveis em determinados dias, podendo escolher o horario mais adequado para o atendimento e a realização do serviço. |
+| RF04 | Gerenciamento de Serviços |  Funcionário/adm mantém a relação de serviços prestados pela empresa ou profissional |
+| RF05 | Gerenciamento da Agenda | Funcionário/adm registra os horários disponíveis de atendimento, confirma e cancela o agendamento de clientes |
+| RF07 | Gerenciamento de Agendamento | Cliente consulta atendimentos agendados, podendo cancelar, confirmar ou editar um agendamento |
 
 ### 9. Requisitos Não-funcionais
 
