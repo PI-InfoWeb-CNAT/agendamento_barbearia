@@ -1,8 +1,6 @@
-# Agendamento de Serviços - 1.0
+# Barbearia do Mateus 
 
-Este projeto tem como objetivo ser uma aplicação modelo para o Projeto Integrador do Curso Técnico de Informática para Internet ofertado pelo Campus Natal-Central do IFRN.
-
-Atualmente o projeto não possui uma implementação, mas está aberto a receber contribuições de código que representem as especificação aqui presente.
+Este projeto tem como objetivo construir um site para o barbeiro Mateus, com o intuito de deixar a sua agenda o mais organizada e eficiente possível.
 
 Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html).
 
