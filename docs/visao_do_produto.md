@@ -6,12 +6,12 @@
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | Rafael Fernandes |
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | Maria Vitória |
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | Antony Gabriel |
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | Luís Gustavo |
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | Samuel Lucas |
-| 25/05/2022 |  **`1.00`** | Versão Inicial  | José Jefferson |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | Rafael Fernandes |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | Maria Vitória |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | Antony Gabriel |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | Luís Gustavo |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | Samuel Lucas |
+| 13/06/2022 |  **`1.00`** | Versão Inicial  | José Jefferson |
 
 
 
@@ -42,7 +42,7 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 ### 4. Descrição do Ambiente dos Usuários
 
-Atualmente, se surgiu a necessidade de muitas vezes entrar em contato com uma pessoa específica para se realizar um determinado serviço, porém graças as novas tecnologias que nasceram no século passado, não se é mais preciso realizar este contato cara a cara. 
+Atualmente, se surgiu a necessidade de muitas vezes entrar em contato com uma pessoa específica para se realizar um determinado serviço, porém graças as novas tecnologias que nasceram no século passado, não se é mais preciso realizar este contato pessoalmente. 
 
 É muito mais prático fazer este contato por meio de um computador, pois dessa forma, o cliente não precisa realizar viagem alguma, para muitas vezes ser recebido com uma recusa.
 
@@ -70,7 +70,7 @@ Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmaç�
 
 | Código | Nome | Descrição |
 |:---  |:--- |:--- |
-| RF01 | Visitar o sistema | O usuário visita o site, checa cortes e horários e cortes disponíveis, mas sem realizar agendamento algum. |
+| RF01 | Visitar o sistema | O usuário visita o site, checa cortes, horários e serviços disponíveis, mas sem realizar agendamento algum. |
 | RF02 | Cadastro do cliente | O usuário se cadastra no sistema, ele pode atualizar os dados já postos ou excluir o próprio cadastro. Assim podendo realizar os agendamentos.   |
 | RF03 | Cadastrar funcionario | O administrador fica responsável por realizar o cadastro ou excluir o cadastro dos funcionários. |
 | RF04 | Consulta de agendas |  O cliente consulta os horarios disponiveis em determinados dias, podendo escolher o horario mais adequado para o atendimento e a realização do serviço. |
