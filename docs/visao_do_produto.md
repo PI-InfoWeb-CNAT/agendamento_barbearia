@@ -6,12 +6,12 @@
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | Rafael Fernandes |
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | Maria Vitória |
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | Antony Gabriel |
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | Luís Gustavo |
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | Samuel Lucas |
-| 13/06/2022 |  **`1.00`** | Versão Inicial  | José Jefferson |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | Rafael Fernandes |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | Maria Vitória |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | Antony Gabriel |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | Luís Gustavo |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | Samuel Lucas |
+| 13/06/2022 |  **`1.02`** | Versão Parcial  | José Jefferson |
 
 
 
