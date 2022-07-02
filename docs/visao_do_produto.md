@@ -35,10 +35,10 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
-| Administrador  | Dono da barbearia | Gerenciar o cadastro dos clientes e funcionários, adicionar novos serviços.	  |
+| Administrador  | Dono da barbearia | Gerenciar o cadastro de funcionários, adicionar novos serviços.	  |
 | Funcionario | A pessoa que realiza os serviços | Inserir os horários em que está disponível na agenda. |
 | Usuário |  A pessoa que visita o site, não precisa ser cadastrado | O usuario é quem está visitando o site; está analisando se aquele estabelecimento será adequado para suas necessidades. Ele checará os cortes e horários disponíveis. |
-| Cliente | Usuário logado | Ele será quem agendará os cortes baseado na agenda do funcionário. |
+| Cliente | Usuário logado | Realizará o auto cadastro, ele será quem agendará os cortes baseado na agenda do funcionário. |
 
 ### 4. Descrição do Ambiente dos Usuários
 
