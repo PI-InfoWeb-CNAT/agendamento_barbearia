@@ -6,7 +6,7 @@
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 13/06/2022 |  **`1.02`** | Versão Parcial  | Rafael Fernandes |
+| 07/06/2022 |  **`1.02`** | Versão Parcial  | Rafael Fernandes |
 | 13/06/2022 |  **`1.02`** | Versão Parcial  | Maria Vitória |
 | 13/06/2022 |  **`1.02`** | Versão Parcial  | Antony Gabriel |
 | 13/06/2022 |  **`1.02`** | Versão Parcial  | Luís Gustavo |
@@ -35,8 +35,8 @@ O projeto da Barbearia do Matheus tem como objetivo prover uma solução simples
 
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
-| Administrador  | Dono da barbearia | Gerenciar o cadastro de funcionários, adicionar novos serviços.	  |
-| Funcionario | A pessoa que realiza os serviços | Inserir os horários em que está disponível na agenda. |
+| Administrador  | Dono da barbearia | Gerenciar o cadastro de funcionários, adicionar novos serviços, gerencia o hórario de funcionários.	  |
+| Funcionario | A pessoa que realiza os serviços | Consulta a agenda. |
 | Usuário |  A pessoa que visita o site, não precisa ser cadastrado | O usuario é quem está visitando o site; está analisando se aquele estabelecimento será adequado para suas necessidades. Ele checará os cortes e horários disponíveis. |
 | Cliente | Usuário logado | Realizará o auto cadastro, ele será quem agendará os cortes baseado na agenda do funcionário. |
 
@@ -75,7 +75,7 @@ Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmaç�
 | RF03 | Cadastrar funcionario | O administrador fica responsável por realizar o cadastro ou excluir o cadastro dos funcionários. |
 | RF04 | Consulta de agendas |  O cliente consulta os horarios disponiveis em determinados dias, podendo escolher o horario mais adequado para o atendimento e a realização do serviço. |
 | RF05 | Gerenciamento de Serviços | Adm mantém a relação de serviços prestados pela empresa ou profissional. |
-| RF07 | Gerenciamento da Agenda | Funcionário registra os horários disponíveis de atendimento. |
+| RF07 | Gerenciamento da Agenda | ADM registra os horários disponíveis de atendimento. |
 | RF08 | Cadastro de atendimento | O cliente marca o corte no horário em que o funcionário está disponível |
 
 ### 9. Requisitos Não-funcionais
