@@ -1,6 +1,6 @@
 # Projeto Agendamento de Serviços
 
-## Especificação do caso de uso - Abrir Agenda do Dia
+## Especificação do caso de uso - Marcar Agendamento
 
 ### Histórico da Revisão 
 
