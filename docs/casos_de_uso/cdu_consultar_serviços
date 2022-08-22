@@ -19,7 +19,7 @@ Cliente.
 
 ### 3. Pré-condições
 
-O cliente deve estar na página da empresa.
+O cliente deve estar na página da inicial empresa.
 
 ### 4. Pós-condições
 
@@ -33,7 +33,6 @@ O sistema apresentaos serviços disponiveis para agendamento da empresa.
 |:-------|:--------|
 | 1. O usuário acessa a página inicial. ||
 || 2. O sistema apresenta essa página que possui controles que permitem ao usuário acessar os serviços disponiveis.|
-| 3. O usuário ajusta, se necessário, os controles de seleção de data e serviço e submete a consulta ao sistema. ||
 
 ### 6. Protótipos de Interface
-`A ser desenvolvido pelo aluno.`
+https://www.figma.com/file/2ShvFH0X1J4tdr0bG6O9uh/PROJETO-INTEGRADOR?node-id=0%3A1
