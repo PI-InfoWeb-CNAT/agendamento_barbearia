@@ -1,0 +1,40 @@
+# Projeto Agendamento de Serviços
+
+## Especificação do caso de uso - Cancelar Agendamento
+
+### Histórico da Revisão 
+
+|  Data  | Versão | Descrição | Autor |
+|:-------|:-------|:----------|:------|
+| 16/07/2021 | **1.00** | Versão Inicial  | Gilbert Azevedo |
+| 16/05/2021 | **1.10** | Ajustes na redação  | Gilbert Azevedo |
+| 22/08/2022 | **1.20** | Fazendo o detalhamento  | José Jefferson |
+
+### 1. Resumo 
+
+Nesse caso de uso, o cliente acessa o o perfil do cliente e visualiza seus agendamemntos, podendo assim deleta-los
+### 2. Atores 
+
+Cliente
+
+### 3. Pré-condições
+
+O cliente deve estar logado para cancelar um agendamento.
+
+### 4. Pós-condições
+
+O sistema disponibiliza os agendamentos no perfil do usuário para assim o cliente conseguir efetuar o cancelamento.
+
+### 5. Fluxos de Evento
+
+#### 5.1. Fluxo Básico
+
+| Ator   | Sistema |
+|:-------|:--------|
+| 1. O cliente deve clicar para acessar o seu perfil ||
+|| 2. O sistema redireciona o cliente para o perfil do usuário |
+| 3. O cliente visualiza seus agendamentos podendo assim o cancelar ||
+|| 4. O Sistema cancela o agendamento selecionado |
+
+### 6. Protótipos de Interface
+https://www.figma.com/file/2ShvFH0X1J4tdr0bG6O9uh/PROJETO-INTEGRADOR
