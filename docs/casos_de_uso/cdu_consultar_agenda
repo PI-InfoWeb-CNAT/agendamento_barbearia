@@ -1,0 +1,38 @@
+# Projeto Agendamento de Serviços
+
+## Especificação do caso de uso - Marcar Agendamento
+
+### Histórico da Revisão 
+
+|  Data  | Versão | Descrição | Autor |
+|:-------|:-------|:----------|:------|
+| 22/08/2022 | **1.00** | Versão Inicial | José Jefferson |
+
+### 1. Resumo 
+
+Nesse caso de uso, o funcionário acessa o sistema acessando o seu perfil para verificar sua agenda.
+
+### 2. Atores 
+
+Funcionário.
+
+### 3. Pré-condições
+
+O funcionário deve está logado para acessar sua agenda.
+
+### 4. Pós-condições
+
+O sistema disponibiliza os horários na agenda do funcionario para que o mesmo possa realizar os serviços.
+
+### 5. Fluxos de Evento
+
+#### 5.1. Fluxo Básico
+
+| Ator   | Sistema |
+|:-------|:--------|
+| 1. O funcionário clica para acessar seu perfil ||
+|| 2. O sistema redireciona o funcionário para o perfil do funcionário |
+| 3. O funcionário visualiza sua agenda ||
+
+### 6. Protótipos de Interface
+https://www.figma.com/file/2ShvFH0X1J4tdr0bG6O9uh/PROJETO-INTEGRADOR
