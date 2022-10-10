@@ -10,7 +10,7 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * Documento de Requisitos
 
-* [Diagrama de casos de uso](./docs/diagramas/https://app.diagrams.net/#G1QYrmnqXR27MDcJq5fsudcKa-fuiUU9yg)
+* [Diagrama de casos de uso](docs/diagramas/Novo diagrama de CDU.drawio.pdf)
 
 * Detalhamento de casos de uso 
 
