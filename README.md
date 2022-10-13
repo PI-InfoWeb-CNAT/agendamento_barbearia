@@ -12,7 +12,7 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * Diagrama de casos de uso
 
-* !(docs/diagramas/Diagrama_CDU.png)
+* ![](docs/diagramas/Diagrama_CDU.png)
 
 * Detalhamento de casos de uso 
 
