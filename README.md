@@ -12,8 +12,6 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * Diagrama de casos de uso
 
-* !(docs/diagramas/Novo diagrama de CDU.drawio.pdf)
-
 * Detalhamento de casos de uso 
 
   1. [Abrir Agenda do Dia](./docs/casos_de_uso/cdu_abrir_agenda_do_dia.md)
