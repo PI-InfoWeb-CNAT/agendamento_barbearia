@@ -7,7 +7,7 @@
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
 | 16/07/2021 | **1.00** | Versão Inicial  | Gilbert Azevedo |
-| 22/08/2022 | **1.10** | Ajustes na redação  | Mikayon |
+| 23/01/2023 | **1.10** | Ajustes na redação  | Mikayon |
 
 ### 1. Resumo 
 
