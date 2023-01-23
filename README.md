@@ -8,6 +8,8 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * [Documento de visão](./docs/visao_do_produto.md)
 
+* Projeto da Barbearia (https://github.com/JoseJefferson304/Gilbert-SQL)
+
 * Documento de Requisitos
 
 * Diagrama de casos de uso
